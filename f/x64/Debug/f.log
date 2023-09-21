@@ -1,0 +1,12 @@
+﻿  f.cpp
+C:\Users\shinko\source\repos\f\f\f.cpp(38,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\shinko\source\repos\f\f\f.cpp(38,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  f.vcxproj -> C:\Users\shinko\source\repos\f\x64\Debug\f.exe
